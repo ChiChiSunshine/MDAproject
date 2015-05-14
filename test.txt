@@ -2,4 +2,9 @@ hello git!!
 
 trytrytry
 
+<<<<<<< HEAD
 qwerwqqwewqe
+=======
+
+123hi
+>>>>>>> origin/master
